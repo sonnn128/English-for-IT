@@ -6,8 +6,6 @@
     keep track of
 11. Using free video e_ _ _ _ _ _ is a convenient way to edit your videos because most of them are so easy to use. 
     editors
-
-
 2. If you want to plan (A), control, and deliver data effectively (B) in an organization (C), a data management system can manipulate (D).
     D-be manipulated
 3. On (A) February 25th 2010, a contract awarded (B) to improve (C) accuracy and availability of GPS navigation signals (D) by the U.S. Air Force.
@@ -16,8 +14,6 @@
     B-extracts
 10. If you want to capture (A) sounds in a (B) digital format and play them back (C), your PCs must be contain (D) a sound card.
     D-contain
-
-
 3. During (A) your layout is completed (B) in HTML and CSS, it needs (C) to be integrated with the system you have chosen (D).
     A-Once | When | After
 5. Indeed (A), bidirectional websites permit users access (B) NSSI content and interact (C) with other users about (D) NSSI.
@@ -28,7 +24,6 @@
     C-while
 8. Most Internet service websites provide (A) a help service that (B) enables customers obtaining (C) help from (D) common computing problems.
     C-to obtain
-
 17.  Data is (A) often entered (B) as a code in a database. For example, in the datas (C) capture form, "Y" is (D) used for Yes and "N" for No. 
     C-data
 18. Computer databases were (A) used as a (B) way to store and manage (C) large amounts of informations (D) digitally. 
@@ -43,9 +38,6 @@
     A-is
 25. The (A) database management system is (B) the software that interact (C) with end users, applications, and the database itself to capture (D) and analyze the data. 
     C - interacts
-
-12. If you want to k_ _ _ t_ _ _ _ o_ your finances from any PC or smartphone, QuickBooks might be a perfect tool for that.  
-    keep track of
 19. Database refers to a collection of electronic r _ _ _ _ _ _ that could be processed to produce useful information.
     records
 24. The other issue is that no matter how accurate a person is at d _ _ _ e _ _ _ _, at some stages they are likely to make a mistake.
@@ -54,35 +46,22 @@
     consistency
 25. By d _ _ _ c _ _ _ _ _ and keeping the size of the system to a minimum, you can save time in the long run when running queries.
     data coding
-
-
 21. Database may be provided by d_ _ _ _ _ _ _ v _ _ _ _ _ _ where does the setup, install and maintains the database.
     database vendors
 23. A database management system receives instruction from a d _ _ _ _ _ _ _ a _ _ _ _ _ _ _ _ _ _ _ _ and accordingly instructs the system to make the necessary changes.
     database administrator
-
-5. In (A) fifty years’ time, computers will be (B) much intelligenter (C) than today, and this will change (D) people’s lives. 
-    C-more intelligent
 20.  A (A) database are stored (B) as a file or a set of files (C) on magnetic disk or tape, optical disk, or some other secondary storage devices (D). 
     B-is stored
-
-
-A s_ _ _ _ _ _ _ _ _ _ refers to both the computer program that displays data in
-rows and columns, and to the table which displays numbers in rows and
-columns.
-2. The basic shapes which are used to make graphical objects are called p_ _ _ _ _
-_ _ _ _.
-
-4. G_ _ _ _ _ _ _ p_ _ _ _ _ _ has a toolbox that enables users to type, draw, paint,
-edit, move and view images on the computer.
-
-7. Technology has been r_ _ _ _ _ _ _ _ _ _ _ _ _ with numerous inventions by
-humans for a few past decades.
-
-9. Our country has to make a huge effort in order to technologically o_ _ _ _ _ _ _
-our neighbor countries.
-
-
+7. Technology has been r_ _ _ _ _ _ _ _ _ _ _ _ _ with numerous inventions by humans for a few past decades.
+    revolutionized
+A s_ _ _ _ _ _ _ _ _ _ refers to both the computer program that displays data in rows and columns, and to the table which displays numbers in rows and columns.
+    spreadsheet
+2. The basic shapes which are used to make graphical objects are called p_ _ _ _ _ _ _ _ _. 
+    primitives
+4. G_ _ _ _ _ _ _ p_ _ _ _ _ _ has a toolbox that enables users to type, draw, paint, edit, move and view images on the computer.
+    Graphics program
+9. Our country has to make a huge effort in order to technologically o_ _ _ _ _ _ _ our neighbor countries.
+    outstrip
 3. In medication, scientists have successfully implanted r _ _ _ _ _ _ d _ _ _ _ _ _ into human body to fasten blood testing
     robotic devices
 7. All of the prisoners are kept under s _ _ _ _ _ _ _ _ _ _ _ through security cameras
@@ -104,8 +83,20 @@ minium value for a range of cells
     plug-in
 5. A w _ _ b _ _ _ _ _ _ is a software application for accesssing information on the www
     web browser
-
 1. P_ _ _ l_ _ _ _ _ refers to the arrangement of text, images, frames, animations and other objects on a page. 
     page layout
 8. For ease of use, we simplified the operations of the web applications and designed a more i_ _ _ _ _ _ _ _ _ _ and user-friendly website. 
     interactive
+1. there are some technologies out there that will r _ _ _ _ _ _ _ _ _ _ _ _ the way we live in the very near future
+    revolutionize
+2. artificial intelligent may o _ _ _ _ _ _ _ human smarter in 16 years
+    outstrip
+3. Just as children develop the ability to i _ _ _ _ _ _ the goal of an action rether than a specific act, can we construct]
+    imitate
+4. B _ _ _ _ _ _ _ _ _ _ _ _ _ is the application of computer software to the field of technology
+    Bioinformatics
+5. If you need a r _ _ _ _ p _ _ _ _ _ _ _ software that can help you plan your routes fast and accurately, route XL
+    route planning
+
+Grammar
+bound + to_v
