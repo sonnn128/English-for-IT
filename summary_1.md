@@ -98,5 +98,8 @@ minium value for a range of cells
 5. If you need a r _ _ _ _ p _ _ _ _ _ _ _ software that can help you plan your routes fast and accurately, route XL
     route planning
 
+
 Grammar
 bound + to_v
+
+
