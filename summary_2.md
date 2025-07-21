@@ -59,7 +59,7 @@ Câu 36: The feedback from (A) customers (B) systematically analyzed to improve 
 5.	After the installation, if the client needs any modification the product will come under the m _ _ _ _ _ _ _ _ _ _  process
     maintenance 
 6.	F _ _ _ c _ _ _ _ is a type of program that loads and starts the boot time tasks and processes of an operating system or the computer system 
-    FIRM CHAIN 
+    flow chart
 7.	P _ _ _ _ _ _ _ _ _ _ is am informal high-level description of the operating principle of a computer program or other algorithm
     Pseudocode 
 1.	E _ _ _ _ _ _ _ _ c _ _ _ _  are circuit boards designed to provide additional functionally or to provide a connection to a peripheral device
