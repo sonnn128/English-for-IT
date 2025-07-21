@@ -7,8 +7,6 @@ if <present simple>, V-inf + O
 <!--  give instructions, commands and orders -->
 GRAMMAR
 Find the mistake in each sentence and correct it
-7. System Design helps (A) to specify hardware and system requirements (B), and then (C) overall system architecture will define (D).
-    D- will be defined
 10. When building (A) a dedicated (B) cloud infrastructure, some (C) key requirements needed (D) to achieve it.
     D- are needed
 14. When (A) setting up antivirus software, make (B) sure that you choose the proper settings so as to (C) the computer is automatically scanned (D) for viruses on a regular basis.
@@ -73,7 +71,7 @@ Câu 36: The feedback from (A) customers (B) systematically analyzed to improve 
 7. These days, John and his co-workers in the IT department are making a s _ _ _ _ _ for his company’s incoming commercial website. 
     sketch 
 10. The company was required to disclose some of its c _ _ _ _ _ _ _ c _ _ _ so that developers could write competing applications.
-    compiler code
+    computer code
 1. Once you have entered C_ _ _ s_ _ _ _, you will see a set of text screens with a number of options.
     CMOS setup
 3. Since e_ _ _ _ _ _ _ _ c_ _ _ _ require open slots, they cannot be installed in computers with no available slots like Apple iMac.
